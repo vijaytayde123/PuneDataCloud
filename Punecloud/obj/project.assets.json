@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git-Projects\\PuneCloud\\Punecloud\\Punecloud.csproj",
+      "projectUniqueName": "C:\\Git-Projects\\PuneDataCloud\\Punecloud\\Punecloud.csproj",
       "projectName": "Punecloud",
-      "projectPath": "C:\\Git-Projects\\PuneCloud\\Punecloud\\Punecloud.csproj",
+      "projectPath": "C:\\Git-Projects\\PuneDataCloud\\Punecloud\\Punecloud.csproj",
       "packagesPath": "C:\\Users\\vijay.tayde\\.nuget\\packages\\",
-      "outputPath": "C:\\Git-Projects\\PuneCloud\\Punecloud\\obj\\",
+      "outputPath": "C:\\Git-Projects\\PuneDataCloud\\Punecloud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
